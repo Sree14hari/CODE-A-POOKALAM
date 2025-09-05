@@ -23,7 +23,7 @@ Click the **Fork** button on the top right.
 ### 2. Clone your fork
 
 ```bash
-git clone https://github.com/Tinkerhub-SBCE/CODE-A-POOKALAM-TEMPLATE.git
+git clone https://github.com/Sree14hari/CODE-A-POOKALAM.git
 cd code-a-pookalam
 ```
 
